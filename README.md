@@ -2,7 +2,8 @@
 - 👀 I’m interested in CyberSecurity
 - 🌱 I’m currently learning Networking and Ethical Hacking
 - 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me :- DM :- _prajwal9597
+- 📫 How to reach me 
+- Instagram :- _prajwal9597
 
 
 <!---
