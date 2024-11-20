@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Networking and Ethical Hacking
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me :- DM :- _prajwal9597
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 PRAJWAL9597/PRAJWAL9597 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
