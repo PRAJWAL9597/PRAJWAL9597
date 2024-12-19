@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Networking and Ethical Hacking
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me 
-- Instagram :- _prajwal9597
+- LinkedIn:- Prajwal Sutar
 
 
 <!---
