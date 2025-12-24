@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @PRAJWAL9597<br>- 👀 I’m interested in CyberSecurity<br>- 🌱 I’m currently learning Networking and Ethical Hacking<br>-       I have learnt to create and setup blockchain projects and have created one named eVOTE<br>- 💞️ I’m looking to collaborate on Projects<br>- 📫 How to reach me <br>- LinkedIn:- Prajwal Sutar<br>
+- 👋 Hi, I’m @PRAJWAL9597<br>- 👀 I’m interested in Machine Learning<br>- 🌱 I’m currently learning DSA and ML<br>-       I have learnt to create and setup blockchain projects and have created one named eVOTE<br>- 💞️ I’m looking to collaborate on Projects<br>- 📫 How to reach me <br>- LinkedIn:- Prajwal Sutar<br>
 
 
 ## 🌐 Socials:
